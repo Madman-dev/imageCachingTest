@@ -17,6 +17,7 @@
 		BD0165062B2F0085007ED241 /* TestCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = BD0165042B2F0085007ED241 /* TestCell.xib */; };
 		BD0165082B2F1161007ED241 /* SearchPhoto.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD0165072B2F1161007ED241 /* SearchPhoto.swift */; };
 		BD01650A2B2F261C007ED241 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD0165092B2F261C007ED241 /* NetworkManager.swift */; };
+		BD0165102B2F2F2A007ED241 /* ImageLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD01650F2B2F2F2A007ED241 /* ImageLoad.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		BD0165042B2F0085007ED241 /* TestCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TestCell.xib; sourceTree = "<group>"; };
 		BD0165072B2F1161007ED241 /* SearchPhoto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchPhoto.swift; sourceTree = "<group>"; };
 		BD0165092B2F261C007ED241 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		BD01650F2B2F2F2A007ED241 /* ImageLoad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoad.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				BD0165072B2F1161007ED241 /* SearchPhoto.swift */,
 				BD0165032B2F0085007ED241 /* TestCell.swift */,
 				BD0165092B2F261C007ED241 /* NetworkManager.swift */,
+				BD01650F2B2F2F2A007ED241 /* ImageLoad.swift */,
 				BD0165042B2F0085007ED241 /* TestCell.xib */,
 				BD0164F52B2EF33A007ED241 /* Main.storyboard */,
 				BD0164F82B2EF33C007ED241 /* Assets.xcassets */,
@@ -157,6 +160,7 @@
 				BD0165052B2F0085007ED241 /* TestCell.swift in Sources */,
 				BD0164F02B2EF33A007ED241 /* AppDelegate.swift in Sources */,
 				BD0164F22B2EF33A007ED241 /* SceneDelegate.swift in Sources */,
+				BD0165102B2F2F2A007ED241 /* ImageLoad.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
